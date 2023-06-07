@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.5.0](https://www.github.com/sentriz/cliphist/compare/v0.4.0...v0.5.0) (2023-06-07)
+
+
+### Features
+
+* add support for bmp images ([3c9a7b8](https://www.github.com/sentriz/cliphist/commit/3c9a7b889e4eeed301e71d67ed37246cc9097e63)), closes [#46](https://www.github.com/sentriz/cliphist/issues/46)
+* add version command ([3e91638](https://www.github.com/sentriz/cliphist/commit/3e91638630fc54f815ae025fa77e2472a770e91a))
+* show image size and dimensions in preview ([dd3c5f0](https://www.github.com/sentriz/cliphist/commit/dd3c5f0248065d8f36c48445b3e68ffb6000ff86))
+
 ## [0.4.0](https://www.github.com/sentriz/cliphist/compare/v0.3.1...v0.4.0) (2023-03-08)
 
 
